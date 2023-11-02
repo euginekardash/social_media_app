@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101783663499",
+    "project_id": "social-media-5c9bb",
+    "storage_bucket": "social-media-5c9bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101783663499:android:865e246c43076d3880358e",
+        "android_client_info": {
+          "package_name": "com.kardash.social_media"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFTa2u0V-C4L_CmNFGxJ6HfRlapFRkCF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
